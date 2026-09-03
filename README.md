@@ -1,31 +1,31 @@
 <div align="center">
 
-# 🎙️ OpenVoice Desktop Portable
+# 🎙️ WakeVoice Portable
 
 **免安装 Python 的绿色便携中文语音助手。**
 
-下载 → 解压 → 双击 `OpenVoiceDesktop.exe`，就能对着电脑说话让它干活。唤醒、识别、基础对话全部在本地运行，断网也能用，隐私不出门。
+下载 → 解压 → 双击 `WakeVoiceDesktop.exe`，就能对着电脑说话让它干活。唤醒、识别、基础对话全部在本地运行，断网也能用，隐私不出门。
 
 > 💬 Wake word → spoken command → done. No Python · No install · No cloud.
 
-[![Release](https://img.shields.io/github/v/release/jsxxwhai/openvoice-desktop-portable?color=blue&label=Download%20Portable)](https://github.com/jsxxwhai/openvoice-desktop-portable/releases)
+[![Release](https://img.shields.io/github/v/release/jsxxwhai/wakevoice-portable?color=blue&label=Download%20Portable)](https://github.com/jsxxwhai/wakevoice-portable/releases)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/jsxxwhai/openvoice-desktop-portable?style=social&label=Star)](https://github.com/jsxxwhai/openvoice-desktop-portable)
+[![Stars](https://img.shields.io/github/stars/jsxxwhai/wakevoice-portable?style=social&label=Star)](https://github.com/jsxxwhai/wakevoice-portable)
 
 </div>
 
 > ⭐ **这个项目对你有用的话，请点一个 Star** —— 你的支持是作者持续更新的最大动力。
 
-本仓库是**便携分发包**：`OpenVoiceDesktop.exe` + 完整运行库，无需安装 Python。完整源码、构建脚本与开发文档请看主仓库 [openvoice-desktop](https://github.com/jsxxwhai/openvoice-desktop)。
+本仓库是**便携分发包**：`WakeVoiceDesktop.exe` + 完整运行库，无需安装 Python。完整源码、构建脚本与开发文档请看主仓库 [wakevoice](https://github.com/jsxxwhai/wakevoice)。
 
-<img src="assets/og-card.png" alt="OpenVoice Desktop Portable 社交卡片" width="100%"/>
+<img src="assets/og-card.png" alt="WakeVoice Portable 社交卡片" width="100%"/>
 
-![OpenVoice Desktop Portable 对话演示](assets/demo.png)
+![WakeVoice Portable 对话演示](assets/demo.png)
 
 ## 快速开始（两步）
 
-1. 下载最新 [Release](https://github.com/jsxxwhai/openvoice-desktop-portable/releases) 里的 `OpenVoiceDesktop-portable-vX.zip`。
-2. 解压后双击 `OpenVoiceDesktop.exe`：
+1. 下载最新 [Release](https://github.com/jsxxwhai/wakevoice-portable/releases) 里的 `WakeVoiceDesktop-portable-vX.zip`。
+2. 解压后双击 `WakeVoiceDesktop.exe`：
    - 首次运行会自动下载约 42MB 中文语音模型（显示进度，之后可离线使用）；
    - 完成后自动进入监听，说 **“你好伙伴”** → 它答“我在” → 说出指令 → 停顿 1.5 秒自动执行。
 
@@ -61,4 +61,4 @@ python scripts/build_dist.py --clean --portable --zip
 
 ## 开源许可
 
-[MIT](LICENSE) © OpenVoice Desktop Contributors
+[MIT](LICENSE) © WakeVoice Contributors
