@@ -18,6 +18,8 @@
 
 本仓库是**便携分发包**：`OpenVoiceDesktop.exe` + 完整运行库，无需安装 Python。完整源码、构建脚本与开发文档请看主仓库 [openvoice-desktop](https://github.com/jsxxwhai/openvoice-desktop)。
 
+![OpenVoice Desktop Portable 对话演示](assets/demo.png)
+
 ## 快速开始（两步）
 
 1. 下载最新 [Release](https://github.com/jsxxwhai/openvoice-desktop-portable/releases) 里的 `OpenVoiceDesktop-portable-vX.zip`。
