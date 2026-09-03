@@ -20,7 +20,7 @@
 
 <img src="assets/og-card.png" alt="WakeVoice Portable 社交卡片" width="100%"/>
 
-![WakeVoice Portable 对话演示](assets/demo.png)
+![WakeVoice Portable 对话演示（动画）](assets/demo.gif)
 
 ## 快速开始（两步）
 
