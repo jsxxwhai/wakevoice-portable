@@ -22,6 +22,16 @@
 
 ![WakeVoice Portable 对话演示（动画）](assets/demo.gif)
 
+### Quick Start (English)
+
+1. Download the latest `WakeVoiceDesktop-portable-vX.zip` from [Releases](https://github.com/jsxxwhai/wakevoice-portable/releases).
+2. Unzip and double-click `WakeVoiceDesktop.exe`.
+   - On first launch it downloads a ~42 MB Chinese speech model (progress shown), then works offline.
+   - Say the wake word **“你好伙伴”** (nǐ hǎo huǒbàn) → it replies “我在” → speak your command → it runs after a 1.5 s pause.
+3. Press `Esc` at any time to stop the current task.
+
+> Full Chinese guide is inside the zip: `使用说明.txt`.
+
 ## 快速开始（两步）
 
 1. 下载最新 [Release](https://github.com/jsxxwhai/wakevoice-portable/releases) 里的 `WakeVoiceDesktop-portable-vX.zip`。
